@@ -36,16 +36,6 @@
 - **6가지 기본 동작 인식**: 걷기, 뛰기, 앉기, 서기, 계단 오르기/내리기
 - **확장 가능한 동작**: 운동 동작, 교통수단 이용, 휴대폰 사용 패턴
 
-## 🛠 기술 스택
-
-### 💻 Core Technologies
-- **Sensor Data Processing**: 센서데이터, 신호처리
-- **Machine Learning**: 딥러닝, 분류 알고리즘
-- **IoT & Wearable**: IoT & Wearable Tech
-- **Data Analysis**: Feature Engineering, Pattern Recognition
-
-
-
 ## 📊 센서 데이터 특성
 
 ### 센서 구성
