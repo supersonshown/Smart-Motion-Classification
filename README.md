@@ -53,8 +53,9 @@
 ## 🔍 데이터 분석
 <img width="1443" height="420" alt="image" src="https://github.com/user-attachments/assets/c983bc8d-fb06-483f-9063-2a1d5ce7d2a4" />
 - 데이터 학습 영향력 분석
-  
-<img width="1443" height="420" alt="image" src="https://github.com/user-attachments/assets/b63000dc-af00-4f0a-bbb1-7a1958d2facb" />
+
+<img width="1584" height="419" alt="image" src="https://github.com/user-attachments/assets/92175d3c-c7c3-4457-a2e0-c6881523cc07" />
+
 - 학습 데이터에 따른 성능 분석
 
 
